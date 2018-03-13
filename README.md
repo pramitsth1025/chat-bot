@@ -1,4 +1,4 @@
-chat-bot Nepal
+chat-bot 1Nepal
 ========
 
 Client-side JavaScript chat bot framework
